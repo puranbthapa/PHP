@@ -1301,7 +1301,7 @@ $valid_email = SecurityValidator::validateEmail($_POST['email']);
 ## 👨‍💻 Course Developer & Credits
 
 **Powered by:** Puran Bahadur Thapa  
-**Website:** [https://eastlinknet.np](https://eastlink.com.np )  
+**Website:** https://eastlink.com.np
 **WhatsApp:** +9779801901140  
 
 *For technical support, web development consulting, or custom PHP training programs, feel free to reach out through the contact information above. Professional development services and advanced training modules available.*
@@ -1315,3 +1315,4 @@ $valid_email = SecurityValidator::validateEmail($_POST['email']);
 
 
 *Start your PHP development journey today! Begin with Lesson 1 and use these interactive demos to build your way to becoming a confident web developer.*
+
