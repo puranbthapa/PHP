@@ -2,7 +2,7 @@
 
 ---
 **Developer:** Puran Bahadur Thapa  
-**Website:** https://eastlinknet.np  
+**Website:** https://eastlink.com.np  
 **Contact:** WhatsApp: +9779801901140  
 ---
 
@@ -224,5 +224,6 @@ Registration data is stored in JSON format in the `data/` directory:
 4. Add user authentication system
 5. Implement file compression for uploads
 6. Add data export functionality (CSV, PDF)
+
 
 For questions or issues, refer to the lesson materials or contact your instructor.
